@@ -1,0 +1,17 @@
+*{
+    font-family: Cute Font;
+}
+
+.icons{
+    font-size: 2rem;
+    margin: 10px;
+}
+
+.pc{
+    color: #FF5733;
+    font-size: 0.5rem;
+}
+
+#resultados{
+    border-radius: 2rem;
+}
